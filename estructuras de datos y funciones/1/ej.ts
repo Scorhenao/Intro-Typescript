@@ -31,3 +31,12 @@
         return array.reduce((acumulador: number, valorActual: number) => Math.max
         (acumulador, valorActual), -Infinity);
         };
+
+/**
+ * ¿Cómo se puede asegurar el tipo de datos en un array en TypeScript?
+    En TypeScript, puedes asegurar el tipo de datos en un array mediante:
+
+    Declaración explícita: Especificando el tipo del array al definirlo.
+    Interfaces o tipos personalizados: Definiendo estructuras para arrays de objetos.
+    Generics en funciones: Utilizando parámetros genéricos para asegurar el tipo en funciones que operan sobre arrays.
+ */
