@@ -13,11 +13,6 @@ En este documento, exploraremos los conceptos fundamentales de TypeScript, un su
 4. Implementar conceptos avanzados como clases, interfaces, y asincronía en TypeScript.
 5. Reflexionar sobre las diferencias y ventajas de usar TypeScript en proyectos de JavaScript.
 
-## Instrucciones de entrega:
-1. Completa los ejercicios y casos de uso presentados en cada sección.
-2. Sube tu proyecto final a un repositorio de GitHub.
-3. Comparte el enlace del repositorio en moodle en la sección habilitada para las entregas.
-
 ## Teoría y Práctica
 
 ### 1. Introducción teórica a TypeScript
